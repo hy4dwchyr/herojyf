@@ -1,12 +1,12 @@
 {
-  "name": "随便",
-  "description": "随便",
+  "name": "fdrte",
+  "description": "i6hnfs",
   "keywords": [
-    "随便"
+    "fdhgjty"
   ],
   "env": {
     "PROTOCOL": {
-      "description": "协议VMess或VLESS，请填小写的vmess或vless",
+      "description": "vless",
       "value": "vmess",
       "required": true
     },
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/hy4dwchyr/herojyf",
-  "repository": "https://github.com/hy4dwchyr/herojyf",
+  "website": "https://github.com/hemin/tricheff",
+  "repository": "https://github.com/hemin/tricheff",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
